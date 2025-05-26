@@ -48,4 +48,4 @@ Essas diferenças afetam diretamente a forma como escrevemos, testamos e depuram
 
 Elaborado por: **Antonia Fabiana Rodrigues Oliveira**  
 Curso: Sistemas de Informação – Universidade Federal do Ceará (UFC)  
-Disciplina: Fundamentos de Linguagens de Programação  
+Disciplina: Linguagens de Programação  
