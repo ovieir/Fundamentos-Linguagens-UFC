@@ -41,11 +41,18 @@ Entender as diferentes formas de execução é essencial para escolher a linguag
 
 ---
 
-### Autoria
-
-> Antonia Fabiana Rodrigues Oliveira - disciplina Linguagens de Programação - UFC.
-
 ## 📚 Referências
 
-- Sebesta, Robert W. *Conceitos de Linguagens de Programação*.
-- Diagrama produzido com base no conteúdo estudado.
+- SEBESTA, Robert W. *Conceitos de Linguagens de Programação*. 11ª ed. Pearson, 2018.
+- Notas de aula da disciplina *Linguagens de Programação* – Prof. Bruno de Castro.
+
+---
+
+## Autoria
+
+Desenvolvido por Antonia Fabiana Rodrigues Oliveira  
+**Disciplina:** Linguagens de Programação  
+**Curso:** Sistemas de Informação  
+**Instituição:** Universidade Federal do Ceará - UFC
+
+---
