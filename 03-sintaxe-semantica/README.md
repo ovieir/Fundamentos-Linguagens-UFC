@@ -94,7 +94,7 @@ A linguagem ComandaLang foi desenvolvida com o objetivo de exemplificar os conce
 ## 📚 Referências e Créditos
 
 - Sebesta, Robert W. *Conceitos de Linguagens de Programação*.
--g Notas de aula da disciplina *Linguagens de Programação* – Prof. Bruno de Castro.
+- Notas de aula da disciplina *Linguagens de Programação* – Prof. Bruno de Castro.
 - Algumas ideias estruturais foram redigidas com apoio do ChatGPT da OpenAI (sem copiar código pronto).
 
 ---
