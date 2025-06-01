@@ -46,6 +46,9 @@ Essas diferenças afetam diretamente a forma como escrevemos, testamos e depuram
 
 ## Autoria
 
-Elaborado por: **Antonia Fabiana Rodrigues Oliveira**  
-Curso: Sistemas de Informação – Universidade Federal do Ceará (UFC)  
-Disciplina: Linguagens de Programação  
+Desenvolvido por Antonia Fabiana Rodrigues Oliveira  
+**Disciplina:** Linguagens de Programação  
+**Curso:** Sistemas de Informação  
+**Instituição:** Universidade Federal do Ceará - UFC
+
+---
