@@ -91,17 +91,19 @@ A linguagem ComandaLang foi desenvolvida com o objetivo de exemplificar os conce
 
 ---
 
-## 👩‍🎓 Autoria
-
-Este trabalho foi desenvolvido por:
-
-- **Nome completo:** Antonia Fabiana Rodrigues Oliveira
-- **Disciplina:** Linguagens de Programação
-
----
-
 ## 📚 Referências e Créditos
 
 - Sebesta, Robert W. *Conceitos de Linguagens de Programação*.
-- Inspiração e exemplos baseados no material da disciplina.
+-g Notas de aula da disciplina *Linguagens de Programação* – Prof. Bruno de Castro.
 - Algumas ideias estruturais foram redigidas com apoio do ChatGPT da OpenAI (sem copiar código pronto).
+
+---
+
+## Autoria
+
+Desenvolvido por Antonia Fabiana Rodrigues Oliveira  
+**Disciplina:** Linguagens de Programação  
+**Curso:** Sistemas de Informação  
+**Instituição:** Universidade Federal do Ceará - UFC
+
+---
