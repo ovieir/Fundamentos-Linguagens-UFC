@@ -22,12 +22,20 @@ Abaixo está a linha do tempo criada com base em pesquisa sobre as linguagens de
 
 A linha do tempo foi criada com um modelo visual no Canva, convertida em imagens estáticas para inclusão neste repositório.
 
-## 👩‍💻 Autora
 
-**Antonia Fabiana Rodrigues Oliveira**
+## Referências
 
-## 🔗 Fontes de Pesquisa
-
-- Sebesta, Robert W. *Conceitos de Linguagens de Programação*  
-- Wikipedia  
+- Sebesta, Robert W. *Conceitos de Linguagens de Programação*. 11ª ed. Pearson, 2018.
+- Wikipedia
 - Documentações oficiais das linguagens: Java, Python, C, JavaScript, etc.
+- Notas de aula da disciplina *Linguagens de Programação* – Prof. Bruno de Castro.
+
+
+## Autoria
+
+Desenvolvido por Antonia Fabiana Rodrigues Oliveira  
+**Disciplina:** Linguagens de Programação  
+**Curso:** Sistemas de Informação  
+**Instituição:** Universidade Federal do Ceará - UFC
+
+---
