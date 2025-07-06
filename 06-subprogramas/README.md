@@ -63,12 +63,13 @@ int main() {
 ```
 ---
 
-### Referências
+## Referências
 Apostila da disciplina – LIP AULA 6: Subprogramas, Prof. Bruno Honorato, UFC Crateús.
 Sebesta, R. W. Conceitos de Linguagens de Programação – Capítulo 9 (Subprogramas).
 
 ---
-### Autoria
-Aluno: Antonia Fabiana Rodrigues Oliveira
-Disciplina: Linguagens de Programação.
-Professor: Bruno Honorato – Universidade Federal do Ceará (UFC).
+## Autoria
+
+- Aluna: Antonia Fabiana Rodrigues Oliveira
+- Disciplina: Linguagens de Programação.
+- Professor: Bruno Honorato – Universidade Federal do Ceará (UFC).
