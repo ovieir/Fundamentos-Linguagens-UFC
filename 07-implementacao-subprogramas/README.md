@@ -93,6 +93,6 @@ Notas de aula da disciplina de Linguagens de Programação – UFC
 
 ## Autoria 
 
-Aluna: Antonia Fabiana Rodrigues Oliveira
-Disciplina: Linguagens de Programação.
-Professor: Bruno Honorato – Universidade Federal do Ceará (UFC).
+- Aluna: Antonia Fabiana Rodrigues Oliveira
+- Disciplina: Linguagens de Programação.
+- Professor: Bruno Honorato – Universidade Federal do Ceará (UFC).
