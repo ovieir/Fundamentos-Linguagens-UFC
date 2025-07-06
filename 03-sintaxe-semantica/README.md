@@ -2,13 +2,13 @@
 
 ## Linguagem fictícia: ComandaLang
 
-### 💡 Conceito
+## Conceito
 
 A `ComandaLang` é uma linguagem fictícia criada para representar pedidos de restaurante de forma estruturada e simples. Com ela, é possível registrar pedidos por mesa, especificando itens e quantidades. O objetivo é facilitar o entendimento de regras sintáticas e análise léxica usando um exemplo prático e original.
 
 ---
 
-## 🔤 Tokens (Análise Léxica)
+## Tokens (Análise Léxica)
 
 | Token           | Significado                             | Exemplo         |
 |------------------|------------------------------------------|------------------|
@@ -22,7 +22,7 @@ A `ComandaLang` é uma linguagem fictícia criada para representar pedidos de re
 
 ---
 
-## 📘 Gramática (em pseudocódigo estilo EBNF)
+## Gramática (em pseudocódigo estilo EBNF)
 
 ```ebnf
 programa     → { pedido }
@@ -30,7 +30,7 @@ pedido       → 'pedido' IDENTIFICADOR ':' { item } 'fim'
 item         → '+' ITEM NUM
 ```
 
-## ✅ Exemplo 1 – Pedido simples
+## Exemplo 1 – Pedido simples
 ### Código:
 pedido Mesa1:
 + hamburguer 2
@@ -56,7 +56,7 @@ pedido → 'pedido' Mesa1 ':'
          fim
 
 
-## ✅ Exemplo 2 – Pedido com mais itens
+## Exemplo 2 – Pedido com mais itens
 ### Código:
 pedido Mesa2:
 + pizza 1
@@ -64,7 +64,7 @@ pedido Mesa2:
 + sobremesa 1
 fim
 
-### Análise Léxica:
+## Análise Léxica:
 [pedido]       → PALAVRA_RESERVADA
 [Mesa2]        → IDENTIFICADOR
 [:]            → SEPARADOR
@@ -79,19 +79,19 @@ fim
 [1]            → NUM
 [fim]          → FIM_PEDIDO
 
-### Análise Sintática:
+## Análise Sintática:
 pedido → 'pedido' Mesa2 ':' 
          + pizza 1 
          + refrigerante 2 
          + sobremesa 1 
          fim
 
-## 📝 Considerações Finais
+## Considerações Finais
 A linguagem ComandaLang foi desenvolvida com o objetivo de exemplificar os conceitos de análise léxica e sintática de maneira criativa e compreensível. Seu formato simula um sistema de pedidos em restaurantes, permitindo que a estrutura da linguagem seja assimilada com facilidade. A gramática simples e os exemplos ilustrativos ajudam a visualizar o funcionamento das regras sintáticas e dos tokens léxicos em um contexto prático.
 
 ---
 
-## 📚 Referências
+## Referências
 
 - Sebesta, Robert W. *Conceitos de Linguagens de Programação*.
 - Notas de aula da disciplina *Linguagens de Programação* – Prof. Bruno de Castro.
@@ -101,9 +101,8 @@ A linguagem ComandaLang foi desenvolvida com o objetivo de exemplificar os conce
 
 ## Autoria
 
-Desenvolvido por Antonia Fabiana Rodrigues Oliveira  
-**Disciplina:** Linguagens de Programação  
-**Curso:** Sistemas de Informação  
-**Instituição:** Universidade Federal do Ceará - UFC
+- Aluna: Antonia Fabiana Rodrigues Oliveira
+- Disciplina: Linguagens de Programação.
+- Professor: Bruno Honorato – Universidade Federal do Ceará (UFC).
 
 ---
