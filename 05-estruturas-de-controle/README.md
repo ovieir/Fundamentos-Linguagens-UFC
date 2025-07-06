@@ -10,25 +10,25 @@ Foi desenvolvido um **simulador completo de caixa eletrônico**, utilizando ling
 
 ## Funcionalidades Implementadas
 
-- ✔ Ver saldo
-- ✔ Saque com verificação de saldo
-- ✔ Depósito com validação de valor
-- ✔ Transferência simulada para outra conta
-- ✔ Menu com loop de execução contínua
-- ✔ Encerramento seguro da aplicação
+- Ver saldo
+- Saque com verificação de saldo
+- Depósito com validação de valor
+- Transferência simulada para outra conta
+- Menu com loop de execução contínua
+- Encerramento seguro da aplicação
 
 ---
 
 ## Técnicas Aplicadas
 
-### ✅ Estruturas de Seleção
+## Estruturas de Seleção
 - `if`, `else`, `else if` para validações de entrada, saldo, etc.
 - `switch` para controle das opções do menu
 
-### ✅ Estruturas de Repetição
+## Estruturas de Repetição
 - `do...while` para manter o menu em execução até que o usuário opte por sair
 
-### ✅ Controle de Fluxo
+## Controle de Fluxo
 - `break` para encerrar o programa
 - `return` ao fim do `main`
 - Separação de lógica em **funções específicas** para modularização
@@ -61,9 +61,8 @@ void transferir();
 
 ## Autoria
 
-Desenvolvido por Antonia Fabiana Rodrigues Oliveira  
-**Disciplina:** Linguagens de Programação  
-**Curso:** Sistemas de Informação  
-**Instituição:** Universidade Federal do Ceará - UFC
+- Aluna: Antonia Fabiana Rodrigues Oliveira
+- Disciplina: Linguagens de Programação.
+- Professor: Bruno Honorato – Universidade Federal do Ceará (UFC).
 
 ---
