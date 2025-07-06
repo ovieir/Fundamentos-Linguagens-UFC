@@ -4,7 +4,7 @@ Neste desafio, comparo a **tipagem** entre três linguagens de programação: **
 
 ---
 
-## 📌 Conceitos Comparados
+## Conceitos Comparados
 
 | Linguagem  | Tipagem          | Verificação           | Conversão Implícita       | Observações                                             |
 |------------|------------------|-----------------------|---------------------------|---------------------------------------------------------|
@@ -24,7 +24,7 @@ Os exemplos estão em arquivos separados nesta pasta:
 
 ---
 
-## ✅ Conclusão
+## Conclusão
 
 Cada linguagem tem sua própria abordagem para o sistema de tipos:
 
@@ -46,9 +46,8 @@ Essas diferenças afetam diretamente a forma como escrevemos, testamos e depuram
 
 ## Autoria
 
-Desenvolvido por Antonia Fabiana Rodrigues Oliveira  
-**Disciplina:** Linguagens de Programação  
-**Curso:** Sistemas de Informação  
-**Instituição:** Universidade Federal do Ceará - UFC
+- Aluna: Antonia Fabiana Rodrigues Oliveira
+- Disciplina: Linguagens de Programação.
+- Professor: Bruno Honorato – Universidade Federal do Ceará (UFC).
 
 ---
