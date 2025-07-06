@@ -37,8 +37,8 @@ A linha do tempo foi criada com um modelo visual no Canva, convertida em imagens
 
 ## Autoria
 
-Aluna: Antonia Fabiana Rodrigues Oliveira
-Disciplina: Linguagens de Programação.
-Professor: Bruno Honorato – Universidade Federal do Ceará (UFC).
+- Aluna: Antonia Fabiana Rodrigues Oliveira
+- Disciplina: Linguagens de Programação.
+- Professor: Bruno Honorato – Universidade Federal do Ceará (UFC).
 
 ---
