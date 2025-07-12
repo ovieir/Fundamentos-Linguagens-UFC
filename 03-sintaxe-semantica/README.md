@@ -50,41 +50,41 @@ fim
 - [fim]        → FIM_PEDIDO
 
 ### Análise Sintática:
-pedido → 'pedido' Mesa1 ':' 
-         + hamburguer 2 
-         + suco 1 
-         fim
+- pedido → 'pedido' Mesa1 ':' 
+-        + hamburguer 2 
+-        + suco 1 
+-        fim
 
 
 ## Exemplo 2 – Pedido com mais itens
 ### Código:
-pedido Mesa2:
-+ pizza 1
-+ refrigerante 2
-+ sobremesa 1
-fim
+- pedido Mesa2:
+- + pizza 1
+- + refrigerante 2
+- + sobremesa 1
+- fim
 
 ## Análise Léxica:
-[pedido]       → PALAVRA_RESERVADA
-[Mesa2]        → IDENTIFICADOR
-[:]            → SEPARADOR
-[+]            → ADICIONAR
-[pizza]        → ITEM
-[1]            → NUM
-[+]            → ADICIONAR
-[refrigerante] → ITEM
-[2]            → NUM
-[+]            → ADICIONAR
-[sobremesa]    → ITEM
-[1]            → NUM
-[fim]          → FIM_PEDIDO
+- [pedido]       → PALAVRA_RESERVADA
+- [Mesa2]        → IDENTIFICADOR
+- [:]            → SEPARADOR
+- [+]            → ADICIONAR
+- [pizza]        → ITEM
+- [1]            → NUM
+- [+]            → ADICIONAR
+- [refrigerante] → ITEM
+- [2]            → NUM
+- [+]            → ADICIONAR
+- [sobremesa]    → ITEM
+- [1]            → NUM
+- [fim]          → FIM_PEDIDO
 
 ## Análise Sintática:
-pedido → 'pedido' Mesa2 ':' 
-         + pizza 1 
-         + refrigerante 2 
-         + sobremesa 1 
-         fim
+- pedido → 'pedido' Mesa2 ':' 
+-        + pizza 1 
+-        + refrigerante 2 
+-        + sobremesa 1 
+-        fim
 
 ## Considerações Finais
 A linguagem ComandaLang foi desenvolvida com o objetivo de exemplificar os conceitos de análise léxica e sintática de maneira criativa e compreensível. Seu formato simula um sistema de pedidos em restaurantes, permitindo que a estrutura da linguagem seja assimilada com facilidade. A gramática simples e os exemplos ilustrativos ajudam a visualizar o funcionamento das regras sintáticas e dos tokens léxicos em um contexto prático.
