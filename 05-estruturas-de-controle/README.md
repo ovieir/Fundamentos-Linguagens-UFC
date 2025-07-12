@@ -2,7 +2,7 @@
 
 ## Descrição do Desafio
 
-Este desafio tem como objetivo aplicar **estruturas de controle de fluxo**, **seleção** e **repetição** em um programa com contexto prático e original.
+Este desafio tem como objetivo aplicar estruturas de controle de fluxo, seleção e repetição em um programa com contexto prático e original.
 
 Foi desenvolvido um **simulador completo de caixa eletrônico**, utilizando linguagem C, que oferece ao usuário a possibilidade de consultar saldo, sacar, depositar, transferir valores e sair do sistema por meio de um menu interativo.
 
