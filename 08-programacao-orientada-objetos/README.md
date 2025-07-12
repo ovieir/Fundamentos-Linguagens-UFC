@@ -35,23 +35,23 @@ O programa implementa as seguintes funcionalidades:
 
 ## Saída esperada:
 
---- CARRO ---
-Marca: Toyota
-Modelo: Corolla
-Ano: 2020
-O carro está dirigindo na estrada.
+- --- CARRO ---
+- Marca: Toyota
+- Modelo: Corolla
+- Ano: 2020
+- O carro está dirigindo na estrada.
 
---- MOTO ---
-Marca: Honda
-Modelo: CG 160
-Ano: 2022
-A moto está acelerando.
+- --- MOTO ---
+- Marca: Honda
+- Modelo: CG 160
+- Ano: 2022
+- A moto está acelerando.
 
---- BICICLETA ---
-Marca: Caloi
-Modelo: Explorer
-Ano: 2021
-A bicicleta está pedalando.
+- --- BICICLETA ---
+- Marca: Caloi
+- Modelo: Explorer
+- Ano: 2021
+- A bicicleta está pedalando.
 
 ---
 
