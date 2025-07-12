@@ -38,16 +38,16 @@ pedido Mesa1:
 fim
 
 ### Análise Léxica:
-[pedido]     → PALAVRA_RESERVADA
-[Mesa1]      → IDENTIFICADOR
-[:]          → SEPARADOR
-[+]          → ADICIONAR
-[hamburguer] → ITEM
-[2]          → NUM
-[+]          → ADICIONAR
-[suco]       → ITEM
-[1]          → NUM
-[fim]        → FIM_PEDIDO
+- [pedido]     → PALAVRA_RESERVADA
+- [Mesa1]      → IDENTIFICADOR
+- [:]          → SEPARADOR
+- [+]          → ADICIONAR
+- [hamburguer] → ITEM
+- [2]          → NUM
+- [+]          → ADICIONAR
+- [suco]       → ITEM
+- [1]          → NUM
+- [fim]        → FIM_PEDIDO
 
 ### Análise Sintática:
 pedido → 'pedido' Mesa1 ':' 
