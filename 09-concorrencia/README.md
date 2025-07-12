@@ -45,17 +45,17 @@ O arquivo `concorrencia.py`, contém o código-fonte com a implementação da so
 
 ## Saída esperada
 
-Ímpar: 1
-Par: 0
-Par: 2
-Ímpar: 3
-Ímpar: 5
-Par: 4
-Par: 6
-Ímpar: 7
-Par: 8
-Ímpar: 9
-Execução concorrente finalizada.
+- Ímpar: 1
+- Par: 0
+- Par: 2
+- Ímpar: 3
+- Ímpar: 5
+- Par: 4
+- Par: 6
+- Ímpar: 7
+- Par: 8
+- Ímpar: 9
+- Execução concorrente finalizada.
 
 --- 
 
