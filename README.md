@@ -15,21 +15,21 @@ O objetivo do trabalho é promover uma vivência prática e crítica sobre os pr
 O repositório está dividido em 14 pastas, cada uma correspondente a um desafio temático:
 
 >Fundamentos-Linguagens-UFC/
-├── README.md --> Explicação geral do trabalho e estrutura do repositório
-├── 01-introducao/ --> Linha do tempo da evolução das linguagens
-├── 02-ambientes/ --> Diagramas e explicações sobre compiladores e interpretadores
-├── 03-sintaxe-semantica/ --> Gramática fictícia e análise léxica
-├── 04-tipos-de-dados/ --> Comparação entre linguagens com exemplos
-├── 05-estruturas-de-controle/ --> Código com estruturas de decisão e repetição
-├── 06-subprogramas/ --> Funções com passagem por valor e referência
-├── 07-implementacao-subprogramas/--> Diagrama de pilha de chamadas com recursão
-├── 08-orientacao-objetos/ --> Hierarquia de classes orientada a objetos
-├── 09-concorrencia/ --> Threads e exemplo prático de concorrência
-├── 10-gerenciamento-memoria/ --> Quadro comparativo entre C e Java
-├── 11-programacao-funcional/ --> Exemplo de recursão e funções de alta ordem
-├── 12-programacao-logica/ --> Problema lógico com sintaxe inspirada em Prolog
-├── 13-scripts-web/ --> Script de automação ou manipulação de dados
-└── 14-tendencias/ --> Pesquisa sobre uma linguagem emergente
+- ├── README.md --> Explicação geral do trabalho e estrutura do repositório
+- ├── 01-introducao/ --> Linha do tempo da evolução das linguagens
+- ├── 02-ambientes/ --> Diagramas e explicações sobre compiladores e interpretadores
+- ├── 03-sintaxe-semantica/ --> Gramática fictícia e análise léxica
+- ├── 04-tipos-de-dados/ --> Comparação entre linguagens com exemplos
+- ├── 05-estruturas-de-controle/ --> Código com estruturas de decisão e repetição
+- ├── 06-subprogramas/ --> Funções com passagem por valor e referência
+- ├── 07-implementacao-subprogramas/--> Diagrama de pilha de chamadas com recursão
+- ├── 08-orientacao-objetos/ --> Hierarquia de classes orientada a objetos
+- ├── 09-concorrencia/ --> Threads e exemplo prático de concorrência
+- ├── 10-gerenciamento-memoria/ --> Quadro comparativo entre C e Java
+- ├── 11-programacao-funcional/ --> Exemplo de recursão e funções de alta ordem
+- ├── 12-programacao-logica/ --> Problema lógico com sintaxe inspirada em Prolog
+- ├── 13-scripts-web/ --> Script de automação ou manipulação de dados
+- └── 14-tendencias/ --> Pesquisa sobre uma linguagem emergente
 
 Cada pasta contém:
 - Um `README.md` explicativo
