@@ -23,7 +23,7 @@ Cada arquivo tem uma função clara:
 
 ---
 
-## Saída 
+## Saída esperada
 
 Lista de livros encontrados:
 
@@ -48,4 +48,4 @@ https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 ## Autoria
 - Aluna: Antonia Fabiana Rodrigues Oliveira
 - Disciplina: Linguagens de Programação
-- Professor: Bruno Honorato – Universidade Federal do Ceará (UFC)
+- Professor: Bruno Honorato – Universidade Federal do Ceará (UFC).

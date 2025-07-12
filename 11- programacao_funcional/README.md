@@ -70,4 +70,4 @@ Fernanda (19 anos): 121645100408832000
 ## Autoria
 - Aluna: Antonia Fabiana Rodrigues Oliveira
 - Disciplina: Linguagens de Programação
-- Professor: Bruno Honorato – Universidade Federal do Ceará (UFC)
+- Professor: Bruno Honorato – Universidade Federal do Ceará (UFC).

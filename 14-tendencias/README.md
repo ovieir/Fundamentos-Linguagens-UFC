@@ -76,4 +76,4 @@ Na minha opinião, aprender TypeScript hoje é um diferencial estratégico para 
 ## Autoria
 - Aluna: Antonia Fabiana Rodrigues Oliveira
 - Disciplina: Linguagens de Programação
-- Professor: Bruno Honorato – Universidade Federal do Ceará (UFC)
+- Professor: Bruno Honorato – Universidade Federal do Ceará (UFC).

@@ -8,51 +8,54 @@ Este desafio tem como propósito compreender e demonstrar na prática o conceito
 
 ## Diferença entre Threads e Processos
 
-## Processos
-
+### Processos
 - São programas independentes em execução.
 - Cada processo possui seu **próprio espaço de memória**.
 - São mais seguros, pois não compartilham memória, mas isso também os torna mais lentos para comunicação entre si.
 
-## Threads
-
+### Threads
 - São unidades menores de execução **dentro de um mesmo processo**.
 - Compartilham o **mesmo espaço de memória**, o que permite comunicação mais rápida, mas exige cuidado com sincronização de dados.
 - São mais leves e eficientes para tarefas simultâneas que compartilham informações.
 
-## Comparativo Rápido
+### Comparativo Rápido
 
-| Aspecto        | Processos           | Threads              |
-|----------------|---------------------|----------------------|
-| Memória        | Isolada             | Compartilhada        |
-| Custo de criação | Alto                | Baixo                |
-| Comunicação    | Mais complexa       | Mais rápida          |
-| Segurança      | Alta (isolamento)   | Menor (compartilhamento) |
-| Uso comum      | Execução de apps distintos | Tarefas paralelas no mesmo app |
+| Aspecto          | Processos              | Threads                   |
+|------------------|------------------------|---------------------------|
+| Memória          | Isolada                | Compartilhada             |
+| Custo de criação | Alto                   | Baixo                     |
+| Comunicação      | Mais complexa          | Mais rápida               |
+| Segurança        | Alta (isolamento)      | Menor (compartilhamento)  |
+| Uso comum        | Execução de apps distintos | Tarefas paralelas no mesmo app |
 
 ---
 
-## Exemplo Prático: Envio de E-mails e Geração de Relatórios
+## Exemplo Prático: Impressão Concorrente de Números Pares e Ímpares
 
-Neste exemplo, simulamos duas tarefas concorrentes:
+Neste exemplo, utilizamos duas threads para executar, de forma concorrente, a impressão dos números pares (de 0 a 8) e dos números ímpares (de 1 a 9). Cada thread representa uma função distinta que simula uma tarefa independente com atraso (`sleep`) para evidenciar a execução simultânea.
 
-1. Uma função que envia 5 e-mails.
-2. Outra que gera 3 relatórios.
+A implementação foi feita em Python utilizando a biblioteca `threading`.
 
-As duas tarefas são executadas **simultaneamente usando threads**, por meio da biblioteca `threading` do Python. Isso demonstra como múltiplas ações podem ser executadas paralelamente para otimizar o tempo.
+--- 
 
-##  Arquivo: `email_relatorio.py`
+## Estrutura
+O arquivo `concorrencia.py`, contém o código-fonte com a implementação da solução proposta.
 
-A execução intercalada mostra o funcionamento da concorrência:
+---
 
-```bash
-[Email] Enviando e-mail 1...
-[Relatório] Gerando relatório 1...
-[Email] Enviando e-mail 2...
-...
-[Relatório] Todos os relatórios foram gerados.
-[Email] Todos os e-mails foram enviados.
-```
+## Saída esperada
+
+Ímpar: 1
+Par: 0
+Par: 2
+Ímpar: 3
+Ímpar: 5
+Par: 4
+Par: 6
+Ímpar: 7
+Par: 8
+Ímpar: 9
+Execução concorrente finalizada.
 
 --- 
 
@@ -66,4 +69,4 @@ A execução intercalada mostra o funcionamento da concorrência:
 ## Autoria
 - Aluna: Antonia Fabiana Rodrigues Oliveira
 - Disciplina: Linguagens de Programação
-- Professor: Bruno Honorato – Universidade Federal do Ceará (UFC)
+- Professor: Bruno Honorato – Universidade Federal do Ceará (UFC).
