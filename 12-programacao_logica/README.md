@@ -28,15 +28,6 @@ As regras consideram pai e mãe, e utilizam lógica de inferência com base em f
 
 ---
 
-## Como testar
-1. Instale o [SWI-Prolog](https://www.swi-prolog.org/)
-2. Abra o terminal na pasta onde está o arquivo `problema_logico.pl`
-3. Execute o Prolog com o comando:
-   ```bash
-   swipl problema_logico.pl
-
----
-
 ## Entrada
 
 >Exemplos de consultas
