@@ -52,9 +52,9 @@ Maiores de idade (ordenados):
 - Fernanda
 
 Fatorial das idades:
-Carlos (20 anos): 2432902008176640000
-Beatriz (22 anos): 1124000727777607680000
-Fernanda (19 anos): 121645100408832000
+- Carlos (20 anos): 2432902008176640000
+- Beatriz (22 anos): 1124000727777607680000
+- Fernanda (19 anos): 121645100408832000
 
 ---
 
